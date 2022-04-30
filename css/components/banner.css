@@ -1,0 +1,29 @@
+
+.banner {
+  
+  background: url(../../images/photo.jpg);   
+  background-position: top;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 160px;
+}
+
+
+.banner h1 {
+  
+  font-size: 60px;
+  font-family: revert; 
+}
+
+.banner h2 {
+  
+  font-size: 42px;
+  font-weight: lighter;
+  font-family: monospace;
+	
+}
+
+
+
+
+

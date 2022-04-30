@@ -1,0 +1,16 @@
+.card{
+	display: flex;
+	flex-wrap: wrap;
+}
+.card{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    box-shadow: 0px 10px 30px;
+    border-radius: 6px;
+    margin: 10px;
+    flex-basis: 280px;
+    flex-grow: 1;
+    color: pink;
+}
